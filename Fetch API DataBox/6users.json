@@ -1,0 +1,34 @@
+
+[
+    {
+      "id":1,
+      "name":"Sai Ram Mahapatra",
+      "email":"sairam1998@gmail.com"
+    },
+    {
+      "id":2,
+      "name":"Ankit Dwivedi",
+      "email":"akd007@gmail.com"
+    },
+    {
+      "id":3,
+      "name":"Suraj Kanojiya",
+      "email":"surajkumar@gmail.com"
+    },
+    {
+      "id":4,
+      "name":"Arijit Banerjee",
+      "email":"arijit1996@gmail.com"
+    },
+    {
+      "id":5,
+      "name":"HC Verma",
+      "email":"hcvphy@gmail.com"
+    },
+    {
+        "id":6,
+        "name":"Krishna Vasudev Yadav",
+        "email":"murlidhar@gmail.com"
+    }
+      
+  ]
